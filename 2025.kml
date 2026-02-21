@@ -2,504 +2,779 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>2025.kml</name>
-	<StyleMap id="m_ylw-pushpin150">
+	<StyleMap id="m_ylw-pushpin003">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin90</styleUrl>
+			<styleUrl>#s_ylw-pushpin01400</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl90</styleUrl>
+			<styleUrl>#s_ylw-pushpin_hl211</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="m_ylw-pushpin9">
+	<StyleMap id="m_ylw-pushpin0031">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin15</styleUrl>
+			<styleUrl>#s_ylw-pushpin0140</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl13</styleUrl>
+			<styleUrl>#s_ylw-pushpin_hl2110</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_campfire">
+	<StyleMap id="msn_triangle01">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_campfire</styleUrl>
+			<styleUrl>#sn_triangle01</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_campfire1</styleUrl>
+			<styleUrl>#sh_triangle20</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_campfire0">
+	<StyleMap id="msn_triangle02">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_campfire0</styleUrl>
+			<styleUrl>#sn_triangle100</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_campfire0</styleUrl>
+			<styleUrl>#sh_triangle1000</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_campfire2">
+	<StyleMap id="msn_triangle04">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_campfire1</styleUrl>
+			<styleUrl>#sn_triangle020</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_campfire</styleUrl>
+			<styleUrl>#sh_triangle00</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="s_ylw-pushpin15">
+	<StyleMap id="msn_webcam0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_webcam00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_webcam</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0140">
 		<IconStyle>
+			<color>ff0000aa</color>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<LabelStyle>
-			<color>ff00ffff</color>
+			<color>ff00ffaa</color>
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="s_ylw-pushpin90">
+	<Style id="s_ylw-pushpin01400">
 		<IconStyle>
+			<color>ff0000aa</color>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<LabelStyle>
-			<color>ff00ffff</color>
+			<color>ff00ffaa</color>
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl13">
+	<Style id="s_ylw-pushpin_hl211">
 		<IconStyle>
-			<scale>1.18182</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<color>ff00ffff</color>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl90">
-		<IconStyle>
-			<scale>1.18182</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<color>ff00ffff</color>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sh_campfire">
-		<IconStyle>
-			<scale>1.18182</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<color>ff00ffff</color>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sh_campfire0">
-		<IconStyle>
-			<scale>1.18182</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<color>ff00ffff</color>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sh_campfire1">
-		<IconStyle>
+			<color>ff0000aa</color>
 			<scale>1.16667</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<LabelStyle>
-			<color>ff00ffff</color>
+			<color>ff00ffaa</color>
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sn_campfire">
+	<Style id="s_ylw-pushpin_hl2110">
 		<IconStyle>
+			<color>ff0000aa</color>
+			<scale>1.16667</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<LabelStyle>
-			<color>ff00ffff</color>
+			<color>ff00ffaa</color>
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sn_campfire0">
+	<Style id="sh_triangle00">
 		<IconStyle>
+			<color>ff0000aa</color>
+			<scale>1.16667</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
 			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<LabelStyle>
-			<color>ff00ffff</color>
+			<color>ff00ffaa</color>
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sn_campfire1">
+	<Style id="sh_triangle1000">
 		<IconStyle>
+			<color>ff0000aa</color>
+			<scale>1.16667</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffaa</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_triangle20">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_webcam">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/webcam.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<LabelStyle>
-			<color>ff00ffff</color>
+			<color>ff00ffaa</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_triangle01">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ff00</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_triangle020">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffaa</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_triangle100">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffaa</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_webcam00">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/webcam.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffaa</color>
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
 	<Folder>
-		<name>2025</name>
+		<name>Tour de Guet</name>
 		<open>1</open>
+		<GroundOverlay>
+			<name>Casteljaloux (Echel:20kms)</name>
+			<open>1</open>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>44.50917423440183</north>
+				<south>44.12393323440183</south>
+				<east>0.3312173994489306</east>
+				<west>-0.2107866005510692</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Bazas (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>44.652886</north>
+				<south>44.267645</south>
+				<east>0.00416</east>
+				<west>-0.537844</west>
+			</LatLonBox>
+		</GroundOverlay>
 		<Placemark>
-			<name>2025-07-01 - POMPOGNE (47)</name>
+			<name>Bazas_Caméra</name>
+			<description>30TYQ 17151 26610  //  LT-608</description>
 			<LookAt>
-				<longitude>0.08525933986272216</longitude>
-				<latitude>44.23707134901575</latitude>
+				<longitude>-0.269037674331688</longitude>
+				<latitude>44.46055513059144</latitude>
 				<altitude>0</altitude>
-				<heading>-1.641543656244201</heading>
-				<tilt>18.83902511445402</tilt>
-				<range>1357.955768660424</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_campfire2</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>0.08161523033728635,44.23645498550714,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>2025-06-30 - CAUBON-SAINT-SAUVEUR (47)</name>
-			<LookAt>
-				<longitude>0.186864033032621</longitude>
-				<latitude>44.59167527292878</latitude>
-				<altitude>0</altitude>
-				<heading>-1.555862143108781</heading>
-				<tilt>9.673981947675083</tilt>
-				<range>8718.274626041208</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_campfire</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>0.1651593682109898,44.59557894948681,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>2025-06-23 - COULX (47)</name>
-			<LookAt>
-				<longitude>0.4697643224941506</longitude>
-				<latitude>44.47009203687493</latitude>
-				<altitude>0</altitude>
-				<heading>0.163736144738137</heading>
-				<tilt>7.290897197853051</tilt>
-				<range>9005.31689561233</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_campfire0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>0.4511674333330751,44.47950139885592,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>2025-06-19 - GOURS (33)</name>
-			<LookAt>
-				<longitude>0.0352145455951991</longitude>
-				<latitude>44.98668164273052</latitude>
-				<altitude>0</altitude>
-				<heading>0.009802948415344799</heading>
-				<tilt>10.56904245260863</tilt>
-				<range>2870.562557263069</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin150</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>0.033743,44.985794,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>2025-06-18 - MONFLANQUIN (47)</name>
-			<LookAt>
-				<longitude>0.7587163148347975</longitude>
-				<latitude>44.51985821730583</latitude>
-				<altitude>0</altitude>
-				<heading>0.005615686067271982</heading>
+				<heading>-1.129085877847036</heading>
 				<tilt>0</tilt>
-				<range>12909.63374673022</range>
+				<range>388.0401939097274</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin150</styleUrl>
+			<styleUrl>#msn_webcam0</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>0.750566,44.51609,0</coordinates>
+				<coordinates>-0.2695907376656281,44.46048040277298,0</coordinates>
 			</Point>
 		</Placemark>
+		<GroundOverlay>
+			<name>Biganos (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>44.824304</north>
+				<south>44.439063</south>
+				<east>-0.669193</east>
+				<west>-1.211197</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Cabanac (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>44.800511</north>
+				<south>44.41527</south>
+				<east>-0.236662</east>
+				<west>-0.778666</west>
+			</LatLonBox>
+		</GroundOverlay>
 		<Placemark>
-			<name>2025-06-18 - LAMARQUE (33) - 18/06</name>
+			<name>Tour_Cabanac</name>
+			<description>30TXQ 97557 42435  //  JY-651</description>
 			<LookAt>
-				<longitude>-0.7310999418875785</longitude>
-				<latitude>45.09035632109416</latitude>
+				<longitude>-0.5103577212366063</longitude>
+				<latitude>44.60803897826737</latitude>
 				<altitude>0</altitude>
-				<heading>-0.06703978715033404</heading>
-				<tilt>5.714747061498172</tilt>
-				<range>4762.753630580275</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.7463214057655532,45.09235328785995,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>2025-06-17 - SAINT-VIVIEN-DE-MEDOC (33)</name>
-			<description>🔴🔥  SAINT-VIVIEN-DE-MEDOC (33)
-Nature de l&apos;évènement : Feu de prairie
-➡️ https://discord.gg/evvRbExx</description>
-			<LookAt>
-				<longitude>-1.020650429800397</longitude>
-				<latitude>45.43690764958738</latitude>
-				<altitude>0</altitude>
-				<heading>-0.0232946308336047</heading>
-				<tilt>14.77324896249812</tilt>
-				<range>4676.409515113137</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-1.020882567931055,45.43601358692155,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>2025-06-11 - AGNAC (47) - 13:30</name>
-			<LookAt>
-				<longitude>0.3840468680737796</longitude>
-				<latitude>44.64187719942054</latitude>
-				<altitude>0</altitude>
-				<heading>-0.2727480381404562</heading>
-				<tilt>2.61928258957786</tilt>
-				<range>8619.984502058604</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>0.390719,44.649698,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>SAINT-LAURENT-de-GOSSE (40) | 09/03/2025 - 20:15</name>
-			<LookAt>
-				<longitude>-1.300670760815814</longitude>
-				<latitude>43.5121583111623</latitude>
-				<altitude>0</altitude>
-				<heading>-0.007106861556692621</heading>
-				<tilt>14.45194052680013</tilt>
-				<range>2825.876337104274</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-1.296365478032475,43.51111676311244,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>🔥  SAINT AUBIN de MEDOC (33) | 07/03 - 17:45</name>
-			<LookAt>
-				<longitude>-0.7548394245765223</longitude>
-				<latitude>44.91821309430739</latitude>
-				<altitude>0</altitude>
-				<heading>-0.007838811040835187</heading>
-				<tilt>11.75723385905903</tilt>
-				<range>3011.855407425016</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.770707,44.919,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>FEU DE PRAIRIE -  SAINT-ANDRE-DE-CUBZAC</name>
-			<description>635 Rte de SALIGNAC, SAINT-ANDRE-DE-CUBZAC</description>
-			<LookAt>
-				<longitude>-0.4209040630821803</longitude>
-				<latitude>44.9999982064606</latitude>
-				<altitude>0</altitude>
-				<heading>0.001349146416932264</heading>
-				<tilt>15.68790902706406</tilt>
-				<range>991.1657446185645</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.4223673234753833,44.99953015103837,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Feu de broussaille - Hourtin (33) || 06/03 - 15:45</name>
-			<LookAt>
-				<longitude>-1.040000000267365</longitude>
-				<latitude>45.1849999998694</latitude>
-				<altitude>0</altitude>
-				<heading>-1.898718588430049e-10</heading>
+				<heading>1.716444653471527e-05</heading>
 				<tilt>0</tilt>
-				<range>1000.000014724935</range>
+				<range>152.5377652399772</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<styleUrl>#m_ylw-pushpin0031</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-1.039363036896737,45.18510872678567,0</coordinates>
+				<coordinates>-0.5102465537909273,44.60801705331338,0</coordinates>
 			</Point>
 		</Placemark>
+		<GroundOverlay>
+			<name>Captieux (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>44.499025</north>
+				<south>44.113784</south>
+				<east>-0.001128</east>
+				<west>-0.5431319999999999</west>
+			</LatLonBox>
+		</GroundOverlay>
 		<Placemark>
-			<name>FEU DE BROUSSAILLE -  POUDENAS</name>
-			<description>16:15 :</description>
+			<name>Tour_Captieux</name>
+			<description>30TYQ 17347 09548  //  LQ-565</description>
 			<LookAt>
-				<longitude>0.2041934346488361</longitude>
-				<latitude>44.06119693515456</latitude>
+				<longitude>-0.274888535227531</longitude>
+				<latitude>44.30655370571254</latitude>
 				<altitude>0</altitude>
-				<heading>-0.006903506749429667</heading>
-				<tilt>18.54509738419721</tilt>
-				<range>1928.232250108936</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>0.2077420067884694,44.06021975820543,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>SAINT-MARTIN-DU-BOIS (33) | 08/03 - 19:00
--- INCINERATION</name>
-			<LookAt>
-				<longitude>-0.2570729031333152</longitude>
-				<latitude>45.02758458161923</latitude>
-				<altitude>0</altitude>
-				<heading>0.03292058971684732</heading>
-				<tilt>15.67049592059187</tilt>
-				<range>1816.42241558421</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.2558388480232754,45.03008194358681,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>🔥  PLASSAC (33) | 07/03 - 15:00 | Incinération</name>
-			<LookAt>
-				<longitude>-0.6365048945141871</longitude>
-				<latitude>45.10429990640613</latitude>
-				<altitude>0</altitude>
-				<heading>0.001285618036295375</heading>
-				<tilt>4.494116541596171</tilt>
-				<range>992.410641954729</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.6381110399386669,45.10442025427904,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>FEU BORD DE ROUTE - St Ferme (33) || 06/03 - 16:00</name>
-			<description>Ld : Darmissant
-Surface : ??
-
-Jet d’objets incandescents</description>
-			<LookAt>
-				<longitude>0.04574999406129043</longitude>
-				<latitude>44.69805145623961</latitude>
-				<altitude>0</altitude>
-				<heading>-0.005015737798627454</heading>
-				<tilt>0.2651681585838405</tilt>
-				<range>7457.842124827199</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>0.05304354433352643,44.70808012671662,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Reconnaissance VILLEGOUGE (33) - Incinération déclarée</name>
-			<description>16:45 -- ld Cavé</description>
-			<LookAt>
-				<longitude>-0.3193046401090105</longitude>
-				<latitude>44.9566780393174</latitude>
-				<altitude>0</altitude>
-				<heading>-0.07296586439924231</heading>
-				<tilt>20.6180114057468</tilt>
-				<range>1387.737365196726</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.3183125281914012,44.95569500390115,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>BAZAS (33) | 08/03 - 20:00 -- Feu de prairie</name>
-			<description>Ld PINGAILLON
-.
-Superficie 1500m²</description>
-			<LookAt>
-				<longitude>-0.1931570158465401</longitude>
-				<latitude>44.43797632891258</latitude>
-				<altitude>0</altitude>
-				<heading>-0.0006096163963392966</heading>
+				<heading>8.698162062356704e-05</heading>
 				<tilt>0</tilt>
-				<range>2252.825876167</range>
+				<range>241.785836469175</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<styleUrl>#m_ylw-pushpin0031</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.1921816759167494,44.43698713439463,0</coordinates>
+				<coordinates>-0.2747684560084529,44.30667586090807,0</coordinates>
 			</Point>
 		</Placemark>
+		<GroundOverlay>
+			<name>Cestas (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>44.895738</north>
+				<south>44.510497</south>
+				<east>-0.435613</east>
+				<west>-0.9776160000000002</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>Cestas TG</name>
+			<description>30TXQ 81476 52572  //   IM-679</description>
+			<LookAt>
+				<longitude>-0.7086912668352652</longitude>
+				<latitude>44.70316011335922</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08825051647399236</heading>
+				<tilt>0</tilt>
+				<range>211.3244593404313</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle02</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.7092885749499944,44.70323362142645,0</coordinates>
+			</Point>
+		</Placemark>
+		<GroundOverlay>
+			<name>Coutras (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>45.269205</north>
+				<south>44.883964</south>
+				<east>0.258576</east>
+				<west>-0.283427</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Lacanau (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>45.188897</north>
+				<south>44.803656</south>
+				<east>-0.8756509999999998</east>
+				<west>-1.417655</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Lateste (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>44.829297</north>
+				<south>44.444056</south>
+				<east>-0.8994859999999999</east>
+				<west>-1.44149</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>Tour_La-Teste-de-Buch</name>
+			<description>30TXQ 44899 44249  //  EX-664</description>
+			<LookAt>
+				<longitude>-1.172449943899773</longitude>
+				<latitude>44.63728021847285</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01844263371712242</heading>
+				<tilt>35.76867612326259</tilt>
+				<range>278.5574863779664</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0031</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.173224028567188,44.63677440073358,0</coordinates>
+			</Point>
+		</Placemark>
+		<GroundOverlay>
+			<name>Le Temple (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>45.071423</north>
+				<south>44.686182</south>
+				<east>-0.705855</east>
+				<west>-1.247859</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Lesparre (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>45.456573</north>
+				<south>45.071332</south>
+				<east>-0.670587</east>
+				<west>-1.212591</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>Tour_Lesparre</name>
+			<description>30TXR 61277 14349  //  GY-836</description>
+			<LookAt>
+				<longitude>-0.9442627191404817</longitude>
+				<latitude>45.26399902765651</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003080348426518061</heading>
+				<tilt>24.92045219542155</tilt>
+				<range>266.3257518905871</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0031</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.9442139410520933,45.26412275704673,0</coordinates>
+			</Point>
+		</Placemark>
+		<GroundOverlay>
+			<name>Lège (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>44.97974288823173</north>
+				<south>44.59450190026759</south>
+				<east>-0.8584877320111489</east>
+				<west>-1.400491566516286</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>Salaunes (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>45.128209</north>
+				<south>44.742968</south>
+				<east>-0.554447</east>
+				<west>-1.09645</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>Tour_Salaunes</name>
+			<description>30TXQ 71370 78093 //  HR-744</description>
+			<LookAt>
+				<longitude>-0.8285229224128198</longitude>
+				<latitude>44.93579390718711</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1809399323692044</heading>
+				<tilt>0</tilt>
+				<range>423.507660581323</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle02</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.8281326266577149,44.93568647548375,0</coordinates>
+			</Point>
+		</Placemark>
+		<GroundOverlay>
+			<name>Soulac (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>45.6203610941821</north>
+				<south>45.23512010621801</south>
+				<east>-0.8631796153931021</east>
+				<west>-1.405183449898239</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>St-Jean-Illac (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>45.01607736886505</north>
+				<south>44.6308363809009</south>
+				<east>-0.499413939058267</east>
+				<west>-1.041417773563404</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>Tour_St-Jean-d&apos;Illac</name>
+			<description>30TXQ 76059 65777  //  IB-713</description>
+			<LookAt>
+				<longitude>-0.7712567258078173</longitude>
+				<latitude>44.82393568354344</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04371488788533615</heading>
+				<tilt>0</tilt>
+				<range>508.2000377863985</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle02</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.7731228350897579,44.82367380615099,0</coordinates>
+			</Point>
+		</Placemark>
+		<GroundOverlay>
+			<name>St-Laurent (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>45.267623</north>
+				<south>44.882382</south>
+				<east>-0.548982</east>
+				<west>-1.090986</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>Tour_St-Laurent-Medoc</name>
+			<description>30TXQ 71384 93596  //  HU-783</description>
+			<LookAt>
+				<longitude>-0.8224507849722497</longitude>
+				<latitude>45.07490957718611</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001159417310663485</heading>
+				<tilt>0</tilt>
+				<range>337.4783654641834</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle02</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.8226481426427357,45.07507375077296,0</coordinates>
+			</Point>
+		</Placemark>
+		<GroundOverlay>
+			<name>St-Symphorien (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>44.633741</north>
+				<south>44.2485</south>
+				<east>-0.273891</east>
+				<west>-0.815895</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>Tour_St Symphorien</name>
+			<description>30TXQ 95156 23814  //  JP-605</description>
+			<LookAt>
+				<longitude>-0.5474269277115495</longitude>
+				<latitude>44.4413015583586</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3076812531653856</heading>
+				<tilt>0</tilt>
+				<range>195.9931713095752</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle04</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.5474386264671138,44.44132279631729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>T_Monlieu (17)</name>
+			<LookAt>
+				<longitude>-0.2721773146058815</longitude>
+				<latitude>45.24363107599023</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007301638398814064</heading>
+				<tilt>0</tilt>
+				<range>613.1618776621862</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle01</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.2721773146058815,45.24363107599024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tour_Arès-Lège</name>
+			<description>30TXQ 47738 61016  //  FH-705</description>
+			<LookAt>
+				<longitude>-1.131467781419685</longitude>
+				<latitude>44.78770434144386</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001350943717991666</heading>
+				<tilt>0.7558301554206109</tilt>
+				<range>742.1427621601998</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0031</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.13218490311667,44.78719257299789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tour_Biganos</name>
+			<description>30TXQ 63179 44097  //  GR-661</description>
+			<LookAt>
+				<longitude>-0.9427456010612578</longitude>
+				<latitude>44.63170133781096</latitude>
+				<altitude>0</altitude>
+				<heading>-3.321572524652906e-11</heading>
+				<tilt>0</tilt>
+				<range>1000.000005656731</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0031</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.9428935253342186,44.63176098878232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tour_Coutras</name>
+			<description>30TYQ 34962 95811  //  NX-778</description>
+			<LookAt>
+				<longitude>-0.01423463739133823</longitude>
+				<latitude>45.07695595330005</latitude>
+				<altitude>0</altitude>
+				<heading>0.02027691447830539</heading>
+				<tilt>29.66355880283741</tilt>
+				<range>241.1853157518871</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0031</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.0151931066805544,45.0767817373906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tour_Lacanau</name>
+			<description>30TXQ 45868 84213  //  FG-764</description>
+			<LookAt>
+				<longitude>-1.148998452827883</longitude>
+				<latitude>44.99619451457701</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004049993366398751</heading>
+				<tilt>35.8613481183362</tilt>
+				<range>414.4413937286891</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0031</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.149375785145395,44.99632185534097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tour_Le-Temple</name>
+			<LookAt>
+				<longitude>-0.9795557086694696</longitude>
+				<latitude>44.87875980475278</latitude>
+				<altitude>0</altitude>
+				<heading>0.1199466232424229</heading>
+				<tilt>0</tilt>
+				<range>224.9435714490033</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin003</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.9796061404960643,44.87897144791224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tour_Soulac</name>
+			<description>30TXR 45747 32178  //  FO-883</description>
+			<LookAt>
+				<longitude>-1.136327482566033</longitude>
+				<latitude>45.42815453499636</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0311320008745554</heading>
+				<tilt>30.00174160612019</tilt>
+				<range>387.7339440248821</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0031</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.136854620389625,45.42790506886792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tour_Vendays</name>
+			<description>30TXR 51208 21012  //  GA-855</description>
+			<LookAt>
+				<longitude>-1.07028492142316</longitude>
+				<latitude>45.32652929215769</latitude>
+				<altitude>0</altitude>
+				<heading>-1.255996689936089</heading>
+				<tilt>30.00062381960982</tilt>
+				<range>138.8238204005812</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0031</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.070563585907558,45.32633921458131,0</coordinates>
+			</Point>
+		</Placemark>
+		<GroundOverlay>
+			<name>Vendays (Echel:20kms)</name>
+			<Icon>
+				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>45.51891682004765</north>
+				<south>45.13367582004765</south>
+				<east>-0.7972124982188673</east>
+				<west>-1.338552498218867</west>
+			</LatLonBox>
+		</GroundOverlay>
 		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
 	</Folder>
 </Document>
