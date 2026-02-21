@@ -2,779 +2,277 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>2025.kml</name>
-	<StyleMap id="m_ylw-pushpin003">
+	<StyleMap id="msn_info0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin01400</styleUrl>
+			<styleUrl>#sn_info1</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl211</styleUrl>
+			<styleUrl>#sh_info1</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="m_ylw-pushpin0031">
+	<StyleMap id="msn_info1">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin0140</styleUrl>
+			<styleUrl>#sn_info</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl2110</styleUrl>
+			<styleUrl>#sh_info</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_triangle01">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_triangle01</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_triangle20</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_triangle02">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_triangle100</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_triangle1000</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_triangle04">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_triangle020</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_triangle00</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_webcam0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_webcam00</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_webcam</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin0140">
+	<Style id="sh_info">
 		<IconStyle>
-			<color>ff0000aa</color>
+			<scale>1.06364</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/info.png</href>
 			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>ff00ffaa</color>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="s_ylw-pushpin01400">
-		<IconStyle>
-			<color>ff0000aa</color>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>ff00ffaa</color>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl211">
-		<IconStyle>
-			<color>ff0000aa</color>
-			<scale>1.16667</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>ff00ffaa</color>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl2110">
-		<IconStyle>
-			<color>ff0000aa</color>
-			<scale>1.16667</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>ff00ffaa</color>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sh_triangle00">
-		<IconStyle>
-			<color>ff0000aa</color>
-			<scale>1.16667</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>ff00ffaa</color>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sh_triangle1000">
-		<IconStyle>
-			<color>ff0000aa</color>
-			<scale>1.16667</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>ff00ffaa</color>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sh_triangle20">
-		<IconStyle>
-			<color>ff0000aa</color>
-			<scale>1.16667</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
-			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<LabelStyle>
 			<color>ff00ff00</color>
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_webcam">
+	<Style id="sh_info1">
 		<IconStyle>
-			<color>ff0000ff</color>
-			<scale>1.4</scale>
+			<scale>1.05</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/webcam.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/info.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<LabelStyle>
-			<color>ff00ffaa</color>
+			<color>ff00ffff</color>
 			<scale>0.7</scale>
 		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0055ff</color>
+			<fill>0</fill>
+		</PolyStyle>
 	</Style>
-	<Style id="sn_triangle01">
+	<Style id="sn_info">
 		<IconStyle>
-			<color>ff0000aa</color>
+			<scale>0.9</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/info.png</href>
 			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<LabelStyle>
 			<color>ff00ff00</color>
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sn_triangle020">
+	<Style id="sn_info1">
 		<IconStyle>
-			<color>ff0000aa</color>
+			<scale>0.9</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>ff00ffaa</color>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sn_triangle100">
-		<IconStyle>
-			<color>ff0000aa</color>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>ff00ffaa</color>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sn_webcam00">
-		<IconStyle>
-			<color>ff0000ff</color>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/webcam.png</href>
+				<href>http://maps.google.com/mapfiles/kml/shapes/info.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 		<LabelStyle>
-			<color>ff00ffaa</color>
+			<color>ff00ffff</color>
 			<scale>0.7</scale>
 		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0055ff</color>
+			<fill>0</fill>
+		</PolyStyle>
 	</Style>
 	<Folder>
-		<name>Tour de Guet</name>
+		<name>Evènements en cours</name>
 		<open>1</open>
-		<GroundOverlay>
-			<name>Casteljaloux (Echel:20kms)</name>
-			<open>1</open>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>44.50917423440183</north>
-				<south>44.12393323440183</south>
-				<east>0.3312173994489306</east>
-				<west>-0.2107866005510692</west>
-			</LatLonBox>
-		</GroundOverlay>
-		<GroundOverlay>
-			<name>Bazas (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>44.652886</north>
-				<south>44.267645</south>
-				<east>0.00416</east>
-				<west>-0.537844</west>
-			</LatLonBox>
-		</GroundOverlay>
 		<Placemark>
-			<name>Bazas_Caméra</name>
-			<description>30TYQ 17151 26610  //  LT-608</description>
+			<name>Ste-Bazeille (47)</name>
+			<description><![CDATA[<a href=""><iframe seamless src="https://www.infoclimat.fr/infoclimat/vignette_fiche_temps.php?s=STATIC0196" frameborder=0 marginwidth=0 marginheight=0 border=0 width="112px" height="85px" scrolling="no"></iframe></a>]]></description>
 			<LookAt>
-				<longitude>-0.269037674331688</longitude>
-				<latitude>44.46055513059144</latitude>
+				<longitude>-0.03178157136390136</longitude>
+				<latitude>44.47593921153663</latitude>
 				<altitude>0</altitude>
-				<heading>-1.129085877847036</heading>
+				<heading>0.02402781192439894</heading>
 				<tilt>0</tilt>
-				<range>388.0401939097274</range>
+				<range>12055.27532040782</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_webcam0</styleUrl>
+			<styleUrl>#msn_info0</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.2695907376656281,44.46048040277298,0</coordinates>
+				<coordinates>0.13,44.54,0</coordinates>
 			</Point>
 		</Placemark>
-		<GroundOverlay>
-			<name>Biganos (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>44.824304</north>
-				<south>44.439063</south>
-				<east>-0.669193</east>
-				<west>-1.211197</west>
-			</LatLonBox>
-		</GroundOverlay>
-		<GroundOverlay>
-			<name>Cabanac (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>44.800511</north>
-				<south>44.41527</south>
-				<east>-0.236662</east>
-				<west>-0.778666</west>
-			</LatLonBox>
-		</GroundOverlay>
 		<Placemark>
-			<name>Tour_Cabanac</name>
-			<description>30TXQ 97557 42435  //  JY-651</description>
+			<name>Bordeaux-Mérignac (33)</name>
+			<description><![CDATA[<a href=""><iframe seamless src="https://www.infoclimat.fr/infoclimat/vignette_fiche_temps.php?s=07510" frameborder=0 marginwidth=0 marginheight=0 border=0 width="112px" height="85px" scrolling="no"></iframe></a>]]></description>
 			<LookAt>
-				<longitude>-0.5103577212366063</longitude>
-				<latitude>44.60803897826737</latitude>
+				<longitude>-0.7011957803575318</longitude>
+				<latitude>44.8267777735382</latitude>
 				<altitude>0</altitude>
-				<heading>1.716444653471527e-05</heading>
+				<heading>-0.1536295520192346</heading>
+				<tilt>12.70391250103811</tilt>
+				<range>3165.252941516805</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_info1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.7099192158211287,44.8287856700389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St-Gervais (33)</name>
+			<description><![CDATA[<a href=""><iframe seamless src="https://www.infoclimat.fr/infoclimat/vignette_fiche_temps.php?s=MF33415001" frameborder=0 marginwidth=0 marginheight=0 border=0 width="112px" height="85px" scrolling="no"></iframe></a>]]></description>
+			<LookAt>
+				<longitude>-0.4621718806691066</longitude>
+				<latitude>45.02736339455384</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03918035162630677</heading>
+				<tilt>16.93611599325104</tilt>
+				<range>4189.176637699878</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_info1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.4723552971928813,45.02651178996215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Les Salles-de-Castillon (33)</name>
+			<description><![CDATA[<a href=""><iframe seamless src="https://www.infoclimat.fr/infoclimat/vignette_fiche_temps.php?s=000EG" frameborder=0 marginwidth=0 marginheight=0 border=0 width="112px" height="85px" scrolling="no"></iframe></a>]]></description>
+			<LookAt>
+				<longitude>0.009326597309735618</longitude>
+				<latitude>44.91599339912205</latitude>
+				<altitude>0</altitude>
+				<heading>-1.952014665678228e-09</heading>
 				<tilt>0</tilt>
-				<range>152.5377652399772</range>
+				<range>6001.704011513275</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin0031</styleUrl>
+			<styleUrl>#msn_info1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.5102465537909273,44.60801705331338,0</coordinates>
+				<coordinates>0.03,44.91599339912205,0</coordinates>
 			</Point>
 		</Placemark>
-		<GroundOverlay>
-			<name>Captieux (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>44.499025</north>
-				<south>44.113784</south>
-				<east>-0.001128</east>
-				<west>-0.5431319999999999</west>
-			</LatLonBox>
-		</GroundOverlay>
 		<Placemark>
-			<name>Tour_Captieux</name>
-			<description>30TYQ 17347 09548  //  LQ-565</description>
+			<name>St-Emilion (33)</name>
+			<description><![CDATA[<a href=""><iframe seamless src="https://www.infoclimat.fr/infoclimat/vignette_fiche_temps.php?s=MF33394002" frameborder=0 marginwidth=0 marginheight=0 border=0 width="112px" height="85px" scrolling="no"></iframe></a>]]></description>
 			<LookAt>
-				<longitude>-0.274888535227531</longitude>
-				<latitude>44.30655370571254</latitude>
+				<longitude>-0.1187058320766898</longitude>
+				<latitude>44.87791100492318</latitude>
 				<altitude>0</altitude>
-				<heading>8.698162062356704e-05</heading>
+				<heading>-0.0903375794572828</heading>
+				<tilt>0.3234149105908988</tilt>
+				<range>19198.43030753547</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_info1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.19,44.92,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint-Germain-du-Puch (33)</name>
+			<description><![CDATA[<a href=""><iframe seamless src="https://www.infoclimat.fr/infoclimat/vignette_fiche_temps.php?s=000TM" frameborder=0 marginwidth=0 marginheight=0 border=0 width="112px" height="85px" scrolling="no"></iframe></a>]]></description>
+			<LookAt>
+				<longitude>-0.3222919932282775</longitude>
+				<latitude>44.8570900025916</latitude>
+				<altitude>0</altitude>
+				<heading>4.782457595606193e-09</heading>
 				<tilt>0</tilt>
-				<range>241.785836469175</range>
+				<range>6006.958156273715</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin0031</styleUrl>
+			<styleUrl>#msn_info1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.2747684560084529,44.30667586090807,0</coordinates>
+				<coordinates>-0.3222919932282775,44.8570900025916,0</coordinates>
 			</Point>
 		</Placemark>
-		<GroundOverlay>
-			<name>Cestas (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>44.895738</north>
-				<south>44.510497</south>
-				<east>-0.435613</east>
-				<west>-0.9776160000000002</west>
-			</LatLonBox>
-		</GroundOverlay>
 		<Placemark>
-			<name>Cestas TG</name>
-			<description>30TXQ 81476 52572  //   IM-679</description>
+			<name>Chepniers (17)</name>
+			<description><![CDATA[<a href=""><iframe seamless src="https://www.infoclimat.fr/infoclimat/vignette_fiche_temps.php?s=000NZ" frameborder=0 marginwidth=0 marginheight=0 border=0 width="112px" height="85px" scrolling="no"></iframe></a>]]></description>
 			<LookAt>
-				<longitude>-0.7086912668352652</longitude>
-				<latitude>44.70316011335922</latitude>
+				<longitude>-0.3106234108381845</longitude>
+				<latitude>45.25697873524794</latitude>
 				<altitude>0</altitude>
-				<heading>-0.08825051647399236</heading>
+				<heading>-4.383316577151848e-07</heading>
 				<tilt>0</tilt>
-				<range>211.3244593404313</range>
+				<range>12513.22734915454</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_triangle02</styleUrl>
+			<styleUrl>#msn_info1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.7092885749499944,44.70323362142645,0</coordinates>
+				<coordinates>-0.3106234108381845,45.25697873524793,0</coordinates>
 			</Point>
 		</Placemark>
-		<GroundOverlay>
-			<name>Coutras (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>45.269205</north>
-				<south>44.883964</south>
-				<east>0.258576</east>
-				<west>-0.283427</west>
-			</LatLonBox>
-		</GroundOverlay>
-		<GroundOverlay>
-			<name>Lacanau (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>45.188897</north>
-				<south>44.803656</south>
-				<east>-0.8756509999999998</east>
-				<west>-1.417655</west>
-			</LatLonBox>
-		</GroundOverlay>
-		<GroundOverlay>
-			<name>Lateste (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>44.829297</north>
-				<south>44.444056</south>
-				<east>-0.8994859999999999</east>
-				<west>-1.44149</west>
-			</LatLonBox>
-		</GroundOverlay>
 		<Placemark>
-			<name>Tour_La-Teste-de-Buch</name>
-			<description>30TXQ 44899 44249  //  EX-664</description>
+			<name>Bouliac (33)</name>
+			<description><![CDATA[<a href=""><iframe seamless src="https://www.infoclimat.fr/infoclimat/vignette_fiche_temps.php?s=000GT" frameborder=0 marginwidth=0 marginheight=0 border=0 width="112px" height="85px" scrolling="no"></iframe></a>]]></description>
 			<LookAt>
-				<longitude>-1.172449943899773</longitude>
-				<latitude>44.63728021847285</latitude>
+				<longitude>-0.5032769543140503</longitude>
+				<latitude>44.81390776181895</latitude>
 				<altitude>0</altitude>
-				<heading>-0.01844263371712242</heading>
-				<tilt>35.76867612326259</tilt>
-				<range>278.5574863779664</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0031</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-1.173224028567188,44.63677440073358,0</coordinates>
-			</Point>
-		</Placemark>
-		<GroundOverlay>
-			<name>Le Temple (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>45.071423</north>
-				<south>44.686182</south>
-				<east>-0.705855</east>
-				<west>-1.247859</west>
-			</LatLonBox>
-		</GroundOverlay>
-		<GroundOverlay>
-			<name>Lesparre (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>45.456573</north>
-				<south>45.071332</south>
-				<east>-0.670587</east>
-				<west>-1.212591</west>
-			</LatLonBox>
-		</GroundOverlay>
-		<Placemark>
-			<name>Tour_Lesparre</name>
-			<description>30TXR 61277 14349  //  GY-836</description>
-			<LookAt>
-				<longitude>-0.9442627191404817</longitude>
-				<latitude>45.26399902765651</latitude>
-				<altitude>0</altitude>
-				<heading>-0.003080348426518061</heading>
-				<tilt>24.92045219542155</tilt>
-				<range>266.3257518905871</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0031</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.9442139410520933,45.26412275704673,0</coordinates>
-			</Point>
-		</Placemark>
-		<GroundOverlay>
-			<name>Lège (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>44.97974288823173</north>
-				<south>44.59450190026759</south>
-				<east>-0.8584877320111489</east>
-				<west>-1.400491566516286</west>
-			</LatLonBox>
-		</GroundOverlay>
-		<GroundOverlay>
-			<name>Salaunes (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>45.128209</north>
-				<south>44.742968</south>
-				<east>-0.554447</east>
-				<west>-1.09645</west>
-			</LatLonBox>
-		</GroundOverlay>
-		<Placemark>
-			<name>Tour_Salaunes</name>
-			<description>30TXQ 71370 78093 //  HR-744</description>
-			<LookAt>
-				<longitude>-0.8285229224128198</longitude>
-				<latitude>44.93579390718711</latitude>
-				<altitude>0</altitude>
-				<heading>-0.1809399323692044</heading>
+				<heading>2.924777091651394e-05</heading>
 				<tilt>0</tilt>
-				<range>423.507660581323</range>
+				<range>6498.941448800126</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_triangle02</styleUrl>
+			<styleUrl>#msn_info1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.8281326266577149,44.93568647548375,0</coordinates>
+				<coordinates>-0.5032769543140503,44.81390776181895,0</coordinates>
 			</Point>
 		</Placemark>
-		<GroundOverlay>
-			<name>Soulac (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>45.6203610941821</north>
-				<south>45.23512010621801</south>
-				<east>-0.8631796153931021</east>
-				<west>-1.405183449898239</west>
-			</LatLonBox>
-		</GroundOverlay>
-		<GroundOverlay>
-			<name>St-Jean-Illac (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>45.01607736886505</north>
-				<south>44.6308363809009</south>
-				<east>-0.499413939058267</east>
-				<west>-1.041417773563404</west>
-			</LatLonBox>
-		</GroundOverlay>
 		<Placemark>
-			<name>Tour_St-Jean-d&apos;Illac</name>
-			<description>30TXQ 76059 65777  //  IB-713</description>
+			<name>MAUVEZIN-SUR-GUPIE (47)</name>
+			<description><![CDATA[<a href=""><iframe seamless src="https://www.infoclimat.fr/infoclimat/vignette_fiche_temps.php?s=MF47163001" frameborder=0 marginwidth=0 marginheight=0 border=0 width="112px" height="85px" scrolling="no"></iframe></a>]]></description>
 			<LookAt>
-				<longitude>-0.7712567258078173</longitude>
-				<latitude>44.82393568354344</latitude>
+				<longitude>0.1217374282333705</longitude>
+				<latitude>44.56034214033786</latitude>
 				<altitude>0</altitude>
-				<heading>-0.04371488788533615</heading>
+				<heading>0.131564698998916</heading>
 				<tilt>0</tilt>
-				<range>508.2000377863985</range>
+				<range>31640.63748651565</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_triangle02</styleUrl>
+			<styleUrl>#msn_info0</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.7731228350897579,44.82367380615099,0</coordinates>
+				<coordinates>0.16,44.56034214033786,0</coordinates>
 			</Point>
 		</Placemark>
-		<GroundOverlay>
-			<name>St-Laurent (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>45.267623</north>
-				<south>44.882382</south>
-				<east>-0.548982</east>
-				<west>-1.090986</west>
-			</LatLonBox>
-		</GroundOverlay>
 		<Placemark>
-			<name>Tour_St-Laurent-Medoc</name>
-			<description>30TXQ 71384 93596  //  HU-783</description>
+			<name>ST SULPICE DE POMMIERS (33)</name>
+			<description><![CDATA[<a href=""><iframe seamless src="https://www.infoclimat.fr/infoclimat/vignette_fiche_temps.php?s=MF33482001" frameborder=0 marginwidth=0 marginheight=0 border=0 width="112px" height="85px" scrolling="no"></iframe></a>]]></description>
 			<LookAt>
-				<longitude>-0.8224507849722497</longitude>
-				<latitude>45.07490957718611</latitude>
+				<longitude>0.1213588920852837</longitude>
+				<latitude>44.56226104494542</latitude>
 				<altitude>0</altitude>
-				<heading>0.0001159417310663485</heading>
+				<heading>0.1312976735458789</heading>
 				<tilt>0</tilt>
-				<range>337.4783654641834</range>
+				<range>31643.38205633858</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_triangle02</styleUrl>
+			<styleUrl>#msn_info0</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.8226481426427357,45.07507375077296,0</coordinates>
+				<coordinates>-0.12,44.68,0</coordinates>
 			</Point>
 		</Placemark>
-		<GroundOverlay>
-			<name>St-Symphorien (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>44.633741</north>
-				<south>44.2485</south>
-				<east>-0.273891</east>
-				<west>-0.815895</west>
-			</LatLonBox>
-		</GroundOverlay>
-		<Placemark>
-			<name>Tour_St Symphorien</name>
-			<description>30TXQ 95156 23814  //  JP-605</description>
-			<LookAt>
-				<longitude>-0.5474269277115495</longitude>
-				<latitude>44.4413015583586</latitude>
-				<altitude>0</altitude>
-				<heading>-0.3076812531653856</heading>
-				<tilt>0</tilt>
-				<range>195.9931713095752</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_triangle04</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.5474386264671138,44.44132279631729,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>T_Monlieu (17)</name>
-			<LookAt>
-				<longitude>-0.2721773146058815</longitude>
-				<latitude>45.24363107599023</latitude>
-				<altitude>0</altitude>
-				<heading>-0.007301638398814064</heading>
-				<tilt>0</tilt>
-				<range>613.1618776621862</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_triangle01</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.2721773146058815,45.24363107599024,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Tour_Arès-Lège</name>
-			<description>30TXQ 47738 61016  //  FH-705</description>
-			<LookAt>
-				<longitude>-1.131467781419685</longitude>
-				<latitude>44.78770434144386</latitude>
-				<altitude>0</altitude>
-				<heading>-0.001350943717991666</heading>
-				<tilt>0.7558301554206109</tilt>
-				<range>742.1427621601998</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0031</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-1.13218490311667,44.78719257299789,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Tour_Biganos</name>
-			<description>30TXQ 63179 44097  //  GR-661</description>
-			<LookAt>
-				<longitude>-0.9427456010612578</longitude>
-				<latitude>44.63170133781096</latitude>
-				<altitude>0</altitude>
-				<heading>-3.321572524652906e-11</heading>
-				<tilt>0</tilt>
-				<range>1000.000005656731</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0031</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.9428935253342186,44.63176098878232,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Tour_Coutras</name>
-			<description>30TYQ 34962 95811  //  NX-778</description>
-			<LookAt>
-				<longitude>-0.01423463739133823</longitude>
-				<latitude>45.07695595330005</latitude>
-				<altitude>0</altitude>
-				<heading>0.02027691447830539</heading>
-				<tilt>29.66355880283741</tilt>
-				<range>241.1853157518871</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0031</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.0151931066805544,45.0767817373906,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Tour_Lacanau</name>
-			<description>30TXQ 45868 84213  //  FG-764</description>
-			<LookAt>
-				<longitude>-1.148998452827883</longitude>
-				<latitude>44.99619451457701</latitude>
-				<altitude>0</altitude>
-				<heading>-0.004049993366398751</heading>
-				<tilt>35.8613481183362</tilt>
-				<range>414.4413937286891</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0031</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-1.149375785145395,44.99632185534097,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Tour_Le-Temple</name>
-			<LookAt>
-				<longitude>-0.9795557086694696</longitude>
-				<latitude>44.87875980475278</latitude>
-				<altitude>0</altitude>
-				<heading>0.1199466232424229</heading>
-				<tilt>0</tilt>
-				<range>224.9435714490033</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin003</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-0.9796061404960643,44.87897144791224,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Tour_Soulac</name>
-			<description>30TXR 45747 32178  //  FO-883</description>
-			<LookAt>
-				<longitude>-1.136327482566033</longitude>
-				<latitude>45.42815453499636</latitude>
-				<altitude>0</altitude>
-				<heading>-0.0311320008745554</heading>
-				<tilt>30.00174160612019</tilt>
-				<range>387.7339440248821</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0031</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-1.136854620389625,45.42790506886792,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Tour_Vendays</name>
-			<description>30TXR 51208 21012  //  GA-855</description>
-			<LookAt>
-				<longitude>-1.07028492142316</longitude>
-				<latitude>45.32652929215769</latitude>
-				<altitude>0</altitude>
-				<heading>-1.255996689936089</heading>
-				<tilt>30.00062381960982</tilt>
-				<range>138.8238204005812</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0031</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-1.070563585907558,45.32633921458131,0</coordinates>
-			</Point>
-		</Placemark>
-		<GroundOverlay>
-			<name>Vendays (Echel:20kms)</name>
-			<Icon>
-				<href>C:/Users/Laurent471/AppData/LocalLow/Google/GoogleEarth/Grade-2_0.png</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>45.51891682004765</north>
-				<south>45.13367582004765</south>
-				<east>-0.7972124982188673</east>
-				<west>-1.338552498218867</west>
-			</LatLonBox>
-		</GroundOverlay>
 		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
 	</Folder>
 </Document>
