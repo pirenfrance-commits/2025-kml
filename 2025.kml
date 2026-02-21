@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2025.kml</name>
+	<StyleMap id="m_ylw-pushpin150">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin90</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_campfire">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_campfire</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_campfire1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_campfire0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_campfire0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_campfire0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_campfire2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_campfire1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_campfire</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin15">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin90">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl13">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl90">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_campfire">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_campfire0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_campfire1">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_campfire">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_campfire0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_campfire1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campfire.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>2025</name>
+		<open>1</open>
+		<Placemark>
+			<name>2025-07-01 - POMPOGNE (47)</name>
+			<LookAt>
+				<longitude>0.08525933986272216</longitude>
+				<latitude>44.23707134901575</latitude>
+				<altitude>0</altitude>
+				<heading>-1.641543656244201</heading>
+				<tilt>18.83902511445402</tilt>
+				<range>1357.955768660424</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_campfire2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.08161523033728635,44.23645498550714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2025-06-30 - CAUBON-SAINT-SAUVEUR (47)</name>
+			<LookAt>
+				<longitude>0.186864033032621</longitude>
+				<latitude>44.59167527292878</latitude>
+				<altitude>0</altitude>
+				<heading>-1.555862143108781</heading>
+				<tilt>9.673981947675083</tilt>
+				<range>8718.274626041208</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_campfire</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.1651593682109898,44.59557894948681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2025-06-23 - COULX (47)</name>
+			<LookAt>
+				<longitude>0.4697643224941506</longitude>
+				<latitude>44.47009203687493</latitude>
+				<altitude>0</altitude>
+				<heading>0.163736144738137</heading>
+				<tilt>7.290897197853051</tilt>
+				<range>9005.31689561233</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_campfire0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.4511674333330751,44.47950139885592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2025-06-19 - GOURS (33)</name>
+			<LookAt>
+				<longitude>0.0352145455951991</longitude>
+				<latitude>44.98668164273052</latitude>
+				<altitude>0</altitude>
+				<heading>0.009802948415344799</heading>
+				<tilt>10.56904245260863</tilt>
+				<range>2870.562557263069</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin150</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.033743,44.985794,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2025-06-18 - MONFLANQUIN (47)</name>
+			<LookAt>
+				<longitude>0.7587163148347975</longitude>
+				<latitude>44.51985821730583</latitude>
+				<altitude>0</altitude>
+				<heading>0.005615686067271982</heading>
+				<tilt>0</tilt>
+				<range>12909.63374673022</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin150</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.750566,44.51609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2025-06-18 - LAMARQUE (33) - 18/06</name>
+			<LookAt>
+				<longitude>-0.7310999418875785</longitude>
+				<latitude>45.09035632109416</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06703978715033404</heading>
+				<tilt>5.714747061498172</tilt>
+				<range>4762.753630580275</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.7463214057655532,45.09235328785995,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2025-06-17 - SAINT-VIVIEN-DE-MEDOC (33)</name>
+			<description>🔴🔥  SAINT-VIVIEN-DE-MEDOC (33)
+Nature de l&apos;évènement : Feu de prairie
+➡️ https://discord.gg/evvRbExx</description>
+			<LookAt>
+				<longitude>-1.020650429800397</longitude>
+				<latitude>45.43690764958738</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0232946308336047</heading>
+				<tilt>14.77324896249812</tilt>
+				<range>4676.409515113137</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.020882567931055,45.43601358692155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2025-06-11 - AGNAC (47) - 13:30</name>
+			<LookAt>
+				<longitude>0.3840468680737796</longitude>
+				<latitude>44.64187719942054</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2727480381404562</heading>
+				<tilt>2.61928258957786</tilt>
+				<range>8619.984502058604</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.390719,44.649698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SAINT-LAURENT-de-GOSSE (40) | 09/03/2025 - 20:15</name>
+			<LookAt>
+				<longitude>-1.300670760815814</longitude>
+				<latitude>43.5121583111623</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007106861556692621</heading>
+				<tilt>14.45194052680013</tilt>
+				<range>2825.876337104274</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.296365478032475,43.51111676311244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>🔥  SAINT AUBIN de MEDOC (33) | 07/03 - 17:45</name>
+			<LookAt>
+				<longitude>-0.7548394245765223</longitude>
+				<latitude>44.91821309430739</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007838811040835187</heading>
+				<tilt>11.75723385905903</tilt>
+				<range>3011.855407425016</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.770707,44.919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FEU DE PRAIRIE -  SAINT-ANDRE-DE-CUBZAC</name>
+			<description>635 Rte de SALIGNAC, SAINT-ANDRE-DE-CUBZAC</description>
+			<LookAt>
+				<longitude>-0.4209040630821803</longitude>
+				<latitude>44.9999982064606</latitude>
+				<altitude>0</altitude>
+				<heading>0.001349146416932264</heading>
+				<tilt>15.68790902706406</tilt>
+				<range>991.1657446185645</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.4223673234753833,44.99953015103837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Feu de broussaille - Hourtin (33) || 06/03 - 15:45</name>
+			<LookAt>
+				<longitude>-1.040000000267365</longitude>
+				<latitude>45.1849999998694</latitude>
+				<altitude>0</altitude>
+				<heading>-1.898718588430049e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000014724935</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.039363036896737,45.18510872678567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FEU DE BROUSSAILLE -  POUDENAS</name>
+			<description>16:15 :</description>
+			<LookAt>
+				<longitude>0.2041934346488361</longitude>
+				<latitude>44.06119693515456</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006903506749429667</heading>
+				<tilt>18.54509738419721</tilt>
+				<range>1928.232250108936</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.2077420067884694,44.06021975820543,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SAINT-MARTIN-DU-BOIS (33) | 08/03 - 19:00
+-- INCINERATION</name>
+			<LookAt>
+				<longitude>-0.2570729031333152</longitude>
+				<latitude>45.02758458161923</latitude>
+				<altitude>0</altitude>
+				<heading>0.03292058971684732</heading>
+				<tilt>15.67049592059187</tilt>
+				<range>1816.42241558421</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.2558388480232754,45.03008194358681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>🔥  PLASSAC (33) | 07/03 - 15:00 | Incinération</name>
+			<LookAt>
+				<longitude>-0.6365048945141871</longitude>
+				<latitude>45.10429990640613</latitude>
+				<altitude>0</altitude>
+				<heading>0.001285618036295375</heading>
+				<tilt>4.494116541596171</tilt>
+				<range>992.410641954729</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.6381110399386669,45.10442025427904,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FEU BORD DE ROUTE - St Ferme (33) || 06/03 - 16:00</name>
+			<description>Ld : Darmissant
+Surface : ??
+
+Jet d’objets incandescents</description>
+			<LookAt>
+				<longitude>0.04574999406129043</longitude>
+				<latitude>44.69805145623961</latitude>
+				<altitude>0</altitude>
+				<heading>-0.005015737798627454</heading>
+				<tilt>0.2651681585838405</tilt>
+				<range>7457.842124827199</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>0.05304354433352643,44.70808012671662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Reconnaissance VILLEGOUGE (33) - Incinération déclarée</name>
+			<description>16:45 -- ld Cavé</description>
+			<LookAt>
+				<longitude>-0.3193046401090105</longitude>
+				<latitude>44.9566780393174</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07296586439924231</heading>
+				<tilt>20.6180114057468</tilt>
+				<range>1387.737365196726</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.3183125281914012,44.95569500390115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAZAS (33) | 08/03 - 20:00 -- Feu de prairie</name>
+			<description>Ld PINGAILLON
+.
+Superficie 1500m²</description>
+			<LookAt>
+				<longitude>-0.1931570158465401</longitude>
+				<latitude>44.43797632891258</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0006096163963392966</heading>
+				<tilt>0</tilt>
+				<range>2252.825876167</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.1921816759167494,44.43698713439463,0</coordinates>
+			</Point>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>
